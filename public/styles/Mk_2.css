@@ -1,0 +1,52 @@
+body{
+    background-color: #fbfbfb;
+  }
+
+#gamepad {
+    height: 80px;
+    position: relative;
+    left: 25px;
+  }
+  
+  #busqueda {
+    height: 50px;
+    float: right;
+    position: relative;
+    right:  25px;
+    top: 5px;
+  }
+  
+  #usuario {
+    height: 50px;
+    float: right;
+    margin-left: 20px;
+    margin-right: 10px;
+    position: relative;
+    right:  15px;
+    top: 5px;
+  }
+  
+  #carrito {
+    height: 50px;
+    float: right;
+    position: relative;
+    right:  5px;
+    top: 5px;
+  }
+  
+  #user {
+    height: 2rem;
+  }
+  .boton{
+    height: 50px;
+    margin: 4px;
+    background-color: #fbfbfb;
+    border: none;
+    font-size: medium;
+    position: relative;
+    right: 150px;
+    
+  }
+body{
+    overflow-y: hidden;
+}

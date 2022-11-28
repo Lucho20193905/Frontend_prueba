@@ -1,0 +1,52 @@
+.superior{
+    background-color: #fbfbfb;
+    height: 50px;
+}
+
+.titulo{
+    color: white;
+    margin-left: 75px;
+    font-size: 3rem;
+}
+
+.resenias{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.res1{
+    width: 500px;
+    box-shadow: 2px 2px 30px rgba(0, 0, 0, 0);
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+}
+
+.perfil_imagen{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 30px;
+}
+
+.perfil_imagen img{
+    width: 100%;
+    height: 100%;
+    object-fit: center;
+}
+
+.perfil{
+    display: flex;
+    align-items: center;
+}
+
+.name_user strong{
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+}

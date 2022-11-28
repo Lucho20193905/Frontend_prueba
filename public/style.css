@@ -1,0 +1,125 @@
+body{
+  background-color: #fbfbfb;
+}
+
+#gamepad {
+  height: 60px;
+  position: relative;
+  left: 25px;
+}
+
+#home {
+  position: static;
+  margin-left: 0px;
+  margin-right: 0px;
+  right: 0px;
+}
+
+#busqueda {
+  height: 40px;
+  float: right;
+  position: relative;
+  right:  25px;
+  top: 5px;
+}
+
+#usuario {
+  height: 40px;
+  float: right;
+  margin-left: 20px;
+  margin-right: 10px;
+  position: relative;
+  right:  15px;
+  top: 5px;
+}
+
+#carrito {
+  height: 40px;
+  float: right;
+  position: relative;
+  right:  5px;
+  top: 5px;
+}
+
+#user {
+  height: 2rem;
+}
+
+.boton{
+  height: 50px;
+  margin-top: none;
+  background-color: #fbfbfb;
+  border: none;
+  font-size: medium;
+  position: relative;
+  right: 50px;
+}
+
+.espacio{
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+#cuadro{
+  width: 35rem;
+  padding-bottom: 50px;
+  
+}
+
+#log{
+  position: relative;
+  right: 200px;
+  bottom: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style:italic ;
+}
+
+#ltext{
+  position: relative;
+  right: 140px;
+  bottom: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style:italic ;
+}
+
+h2 {
+  color: white;
+  margin-top: 30px;
+  text-align: center;
+}
+
+h5 {
+  color: white;
+  margin-left: 40px;
+}
+
+.col {
+  margin-top: 40px;
+  margin-left: 30px;
+}
+
+.row {
+  margin-left: 90px;
+  align-items: stretch;
+}
+
+.container {
+  margin-left: 40px;
+}
+
+.list-group-item {
+  text-align: left;
+}
+
+.btn-success {
+  margin-top: 10px;
+}
+
+.nav-link {
+  position: sticky;
+}
+
+.progress {
+  width: 300px;
+  margin-bottom: 40px;
+}
